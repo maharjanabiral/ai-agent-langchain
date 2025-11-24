@@ -8,3 +8,5 @@ langgraph
 pydantic
 requests
 python-dotenv
+fastapi
+uvicorn
